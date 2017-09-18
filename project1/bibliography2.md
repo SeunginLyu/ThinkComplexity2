@@ -1,0 +1,7 @@
+### Annotated Bibliography
+
+1. [Coupled Dynamics of node and link states in complex networks: A Model for Language Competition](https://arxiv.org/abs/1609.00078)
+
+  Carro, Adrián, Raúl Toral, and Maxi San Miguel. "Coupled dynamics of node and link states in complex networks: a model for language competition." New Journal of Physics 18.11 (2016): 113056.
+
+  Carro, Raul, and Maxi designed a model of "coupled evolution" for two competing languages. Their model puts heavy emphasis on a network topology called triadic closure that assumes all nodes are at least part of one triangle of nodes. They believe that such network topology does a good job of explaining the trend that individuals form new relationships among "friends of friends". Each node represents the language speaker and contains varying language "preference" values. The speakers(nodes) update their preference value based on the preferences of their neighbors. Each link state represents the interaction between speakers. They use this model to propose five different types of "asymtotic configurations" by varying the size of the system. They conclude that there is a direct relationship between the size of the system and the probability of language extinction. They also add that "group interactions" actually play a big role in this process. To consolidate their claim, they compare their work to the "AB-model" previously proposed by Castello.
