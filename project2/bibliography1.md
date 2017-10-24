@@ -2,10 +2,4 @@
 
 Helbing, D., & Yu, W. (2009). The outbreak of cooperation among success-driven individuals under noisy conditions. Proceedings of the National Academy of Sciences, 106(10), 3680-3685.
 
-Pastor-Satorras, Romualdo, and Alessandro designed a model for the spread of computer viruses on the internet. They call it the susceptible-infected-susceptible(SIS) epidemilogical model on scale-free graphs. They used the Barabasi and Albert model to generate the scale-free graph. They abstract the spreading phenomenon by defining nodes as discrete entities that are either healthy or infected. Each step, a healthy node is infected with rate 'v'(if node is connected to any infected nodes) while infected nodes cure with rate 'u'. They validated their model with a virus epidemics data for Virus Bulletin from 1996 to 2000. They conclude that scale-free networks are prone to the spreading and persistence of infectious viruses.
-
-
-Helbing and Yu designed a model of the outbreak of cooperation in the prisoner's dilemma game.
-
-success-driven migration
-noisy condition
+To answer why selfish humans spontaneously cooperate when there is no central control that necessarily forces people to cooperate, Helbing and Yu designed an agent-based model of the outbreak of cooperation in the prisoner's dilemma game. In their model, each individual(agent) either defect or cooperate selfishly to make the best out of presented "opportunity". They define "noisy world" as a world of selfish individuals with various sources of randomness which involves random strategy mutation and random relocation of the agents. The individuals are unrelated. There are no inherited behavioral traits, no friendship network, and no interaction between agents. Despite such conditions that discourage cooperation, their simulation results illustrate a consistent prevaling cooperation of the individuals in various noisty worlds. They conclude that 'mobility', illustrated as success-driven migration(moving to a site with higher payoff than current position) in their model, is crucial to social order stabilization and maintenance.
